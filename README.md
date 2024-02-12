@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @caiquedepaula
-- 👀 I’m interested end program
+- 👀 I’m interested en program
 - 🌱 I’m currently learning html css javascript figma 
 - 💞️ I’m looking to collaborate on sites web
 - 📫 How to reach me ...
